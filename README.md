@@ -1,6 +1,6 @@
 # Feature and Image Matching showboard
 
-There may be a new image matching method with the following effects: (2024.12.31)
+There may be a new image matching method of traditional handcrafted framework with the following effects: (2024.12.31)
 
 One-stage:
 <p align="center">
